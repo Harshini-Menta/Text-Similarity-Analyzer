@@ -5,13 +5,19 @@ The Text Similarity Analyzer is a tool designed to compare the contents of two t
 
 ### Features
 Compare the contents of two text files
+
 Calculate the similarity ratio
+
 Display the percentage of plagiarized content
 
 ### Usage
+
 Clone the repository or download the script to your local machine.
+
 Prepare two text files (sample1.txt and sample2.txt) that you want to compare.
+
 Place the text files in the same directory as the script.
+
 Run the script using the following command:
 ```
 python main.py
